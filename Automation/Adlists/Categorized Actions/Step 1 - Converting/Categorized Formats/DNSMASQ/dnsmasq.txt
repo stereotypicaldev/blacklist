@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://raw.github.com/notracking/hosts-blocklists/master/domains.txt

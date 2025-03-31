@@ -1,0 +1,6 @@
+csv
+text
+bat
+cmd
+dll
+exe

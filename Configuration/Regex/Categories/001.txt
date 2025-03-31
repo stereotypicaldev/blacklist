@@ -1,0 +1,7 @@
+### Garbage CC-GTLD's not ending in CCTLD
+
+/^.*\.(co[m]*|edu|gov|mil|net|org)\.[a-z]{2,2}\..*$/
+
+### Common file-extension TLD's
+
+/^(.*\.)*(do[ct]|p[op][ast]|pub|sld|vsd|x[lp][as])[ablmstx]{0,1}$/

@@ -1,0 +1,7 @@
+auction
+bet
+casino
+game
+poker
+betting
+lottery
