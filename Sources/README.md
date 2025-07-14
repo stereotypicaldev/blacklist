@@ -1,8 +1,10 @@
 https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator
 
-- [x] https://abpvn.com
+- https://github.com/rentry00/adguard
+  
+- https://abpvn.com
 
-- [x] https://adaway.org
+- https://adaway.org
 
 https://anti-ad.net
 
