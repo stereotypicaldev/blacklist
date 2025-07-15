@@ -28,15 +28,15 @@
 
 - [x] [HL2Guide - Filterlists for Adguard or PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)
 
-- [ ] [Homemade Advanced - PiHole](https://codeberg.org/HomemadeAdvanced/PiHole)
+- [x] [Homemade Advanced - PiHole](https://codeberg.org/HomemadeAdvanced/PiHole)
 
-- [ ] [Levi2288 - Advanced Blocklist](https://github.com/Levi2288/AdvancedBlockList)
+- [x] [Levi2288 - Advanced Blocklist](https://github.com/Levi2288/AdvancedBlockList)
 
-- [ ] [Liamengland1 - Mischosts](https://github.com/liamengland1/mischosts)
+- [x] [Liamengland1 - Mischosts](https://github.com/liamengland1/mischosts)
 
-- [ ] [MajkiIT - Polish Ads Filters](https://github.com/MajkiIT/polish-ads-filter)
+- [x] [MajkiIT - Polish Ads Filters](https://github.com/MajkiIT/polish-ads-filter)
 
-- [ ] [Mkb2091 - Blockconvert](https://github.com/mkb2091/blockconvert)
+- [x] [Mkb2091 - Blockconvert](https://github.com/mkb2091/blockconvert)
 
 - [ ] [Mmotti - Pihole Regex](https://github.com/mmotti/pihole-regex)
 
