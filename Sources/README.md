@@ -1,3 +1,11 @@
+- [x] https://firebog.net
+
+
+
+
+
+
+
 https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator
 
 - https://github.com/rentry00/adguard
@@ -27,8 +35,6 @@ https://easylist.to
 - https://nimdati.com/2019/12/13/pihole-blocklists
 
 https://github.com/Pyenb/Pi-hole-blocklist
-
-- https://firebog.net
 
 https://github.com/arapurayil/aBL
 
