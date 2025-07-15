@@ -26,7 +26,7 @@
 
 - [x] [HeribertoKubuntu - Pihole](https://github.com/HeribertoKubuntu/pihole)
 
-- [ ] [HL2Guide - Filterlists for Adguard or PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)
+- [x] [HL2Guide - Filterlists for Adguard or PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)
 
 - [ ] [Homemade Advanced - PiHole](https://codeberg.org/HomemadeAdvanced/PiHole)
 
