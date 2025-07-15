@@ -16,11 +16,11 @@
 
 - [x] [Cbuijs - Unbound DNS Firewall](https://github.com/cbuijs/unbound-dns-firewall)
 
-- [x] [Cparsell- Blocklists Whitelist](https://github.com/cparsell/Blocklists-Whitelists)
+- [ ] [Cparsell- Blocklists Whitelist](https://github.com/cparsell/Blocklists-Whitelists)
 
-- [x] [Eternnoir - Pihole Regex List](https://github.com/eternnoir/pihole-regex.list)
+- [ ] [Eternnoir - Pihole Regex List](https://github.com/eternnoir/pihole-regex.list)
 
-- [x] [Greg-2600 - Pihole Blocklist](https://github.com/Greg-2600/pihole_block_list)
+- [ ] [Greg-2600 - Pihole Blocklist](https://github.com/Greg-2600/pihole_block_list)
 
 - [ ] [Hemiipatu - Pihole Blocklists](https://github.com/hemiipatu/PiHoleBlocklists)
 
