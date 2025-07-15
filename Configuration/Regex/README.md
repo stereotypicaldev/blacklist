@@ -20,7 +20,7 @@
 
 - [x] [Eternnoir - Pihole Regex List](https://github.com/eternnoir/pihole-regex.list)
 
-- [ ] [Greg-2600 - Pihole Blocklist](https://github.com/Greg-2600/pihole_block_list)
+- [x] [Greg-2600 - Pihole Blocklist](https://github.com/Greg-2600/pihole_block_list)
 
 - [ ] [Hemiipatu - Pihole Blocklists](https://github.com/hemiipatu/PiHoleBlocklists)
 
