@@ -18,7 +18,7 @@
 
 - [x] [Cparsell- Blocklists Whitelist](https://github.com/cparsell/Blocklists-Whitelists)
 
-- [ ] [Eternnoir - Pihole Regex List](https://github.com/eternnoir/pihole-regex.list)
+- [x] [Eternnoir - Pihole Regex List](https://github.com/eternnoir/pihole-regex.list)
 
 - [ ] [Greg-2600 - Pihole Blocklist](https://github.com/Greg-2600/pihole_block_list)
 
