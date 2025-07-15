@@ -4,6 +4,7 @@
 
 - [x] https://avoidthehack.com/best-pihole-blocklists
 
+- [x] https://oisd.nl/setup/pihole
 
 
 
