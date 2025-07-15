@@ -16,7 +16,7 @@
 
 - [x] [Cbuijs - Unbound DNS Firewall](https://github.com/cbuijs/unbound-dns-firewall)
 
-- [ ] [Cparsell- Blocklists Whitelist](https://github.com/cparsell/Blocklists-Whitelists)
+- [x] [Cparsell- Blocklists Whitelist](https://github.com/cparsell/Blocklists-Whitelists)
 
 - [ ] [Eternnoir - Pihole Regex List](https://github.com/eternnoir/pihole-regex.list)
 
