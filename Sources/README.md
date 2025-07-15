@@ -1,5 +1,6 @@
 - [x] https://firebog.net
 
+- [x] https://github.com/blocklistproject/Lists
 
 
 
@@ -93,8 +94,6 @@ https://github.com/biroloter/mobile-ad-hosts
 https://github.com/bkrucarci/turk-adlist
 
 https://github.com/blackjack8/iosadblocklist
-
-https://github.com/blocklistproject/lists
 
 - https://github.com/blocktastic/pihole
 
