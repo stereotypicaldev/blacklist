@@ -1,10 +1,12 @@
-- [x] https://firebog.net
+- [x] [The Firebog](https://firebog.net)
 
-- [x] https://github.com/blocklistproject/Lists
+- [x] [The Blocklist Project](https://github.com/blocklistproject/Lists)
 
-- [x] https://avoidthehack.com/best-pihole-blocklists
+- [x] [Avoid The Hack](https://avoidthehack.com/best-pihole-blocklists)
 
-- [x] https://oisd.nl/setup/pihole
+- [x] [OISD](https://oisd.nl/setup/pihole)
+
+- [x] [HaGeZi](https://github.com/hagezi/dns-blocklists)
 
 
 
@@ -228,7 +230,7 @@ https://github.com/energizedprotection/block
 
 https://github.com/greatis/anti-webminer
 
-https://github.com/hagezi/dns-blocklists
+
 
 https://github.com/Hakame-kun/uBlock-Filters-Indonesia
 
