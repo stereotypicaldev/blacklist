@@ -22,25 +22,25 @@
 
 - [x] [Greg-2600 - Pihole Blocklist](https://github.com/Greg-2600/pihole_block_list)
 
-- [x] [Hemiipatu - Pihole Blocklists](https://github.com/hemiipatu/PiHoleBlocklists)
+- [ ] [Hemiipatu - Pihole Blocklists](https://github.com/hemiipatu/PiHoleBlocklists)
 
-- [x] [HeribertoKubuntu - Pihole](https://github.com/HeribertoKubuntu/pihole)
+- [ ] [HeribertoKubuntu - Pihole](https://github.com/HeribertoKubuntu/pihole)
 
-- [x] [HL2Guide - Filterlists for Adguard or PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)
+- [ ] [HL2Guide - Filterlists for Adguard or PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)
 
-- [x] [Homemade Advanced - PiHole](https://codeberg.org/HomemadeAdvanced/PiHole)
+- [ ] [Homemade Advanced - PiHole](https://codeberg.org/HomemadeAdvanced/PiHole)
 
-- [x] [Levi2288 - Advanced Blocklist](https://github.com/Levi2288/AdvancedBlockList)
+- [ ] [Levi2288 - Advanced Blocklist](https://github.com/Levi2288/AdvancedBlockList)
 
-- [x] [Liamengland1 - Mischosts](https://github.com/liamengland1/mischosts)
+- [ ] [Liamengland1 - Mischosts](https://github.com/liamengland1/mischosts)
 
 - [ ] [MajkiIT - Polish Ads Filters](https://github.com/MajkiIT/polish-ads-filter)
 
 - [ ] [Mkb2091 - Blockconvert](https://github.com/mkb2091/blockconvert)
 
-- [x] [Mmotti - Pihole Regex](https://github.com/mmotti/pihole-regex)
+- [ ] [Mmotti - Pihole Regex](https://github.com/mmotti/pihole-regex)
 
-- [x] [MrRobotOps - Pihole Regex](https://github.com/Mr-Robot-ops/pihole-regex)
+- [ ] [MrRobotOps - Pihole Regex](https://github.com/Mr-Robot-ops/pihole-regex)
 
 - [ ] [NocutralArchives - BlockLists](https://github.com/nocturnalarchives/BlockLists)
 
@@ -60,19 +60,19 @@
 
 - [ ] [Slyfox1186 - Pihole Regex](https://github.com/slyfox1186/pihole-regex)
 
-- [x] [Smokingwheels - SmokingWheels.github.io](https://github.com/smokingwheels/smokingwheels.github.io)
+- [ ] [Smokingwheels - SmokingWheels.github.io](https://github.com/smokingwheels/smokingwheels.github.io)
 
-- [x] [Stevoh6 - Pihole---Allow-and-Block-lists](https://github.com/stevoh6/Pihole---Allow-and-Block-lists)
+- [ ] [Stevoh6 - Pihole---Allow-and-Block-lists](https://github.com/stevoh6/Pihole---Allow-and-Block-lists)
 
-- [x] [SystemJargon - Blockist](https://github.com/SystemJargon/blocklists)
+- [ ] [SystemJargon - Blockist](https://github.com/SystemJargon/blocklists)
 
-- [x] [SystemJargon - Pihole](https://github.com/SystemJargon/pi-hole)
+- [ ] [SystemJargon - Pihole](https://github.com/SystemJargon/pi-hole)
 
-- [x] [x0uid - Spotify AdBlock](https://github.com/x0uid/SpotifyAdBlock)
+- [ ] [x0uid - Spotify AdBlock](https://github.com/x0uid/SpotifyAdBlock)
 
-- [x] [Xlimit91- Xlimit91 Blocklist](https://github.com/xlimit91/xlimit91-block-list)
+- [ ] [Xlimit91- Xlimit91 Blocklist](https://github.com/xlimit91/xlimit91-block-list)
 
-- [x] [S0m3sushi - Pihole Filters](https://github.com/s0m3sushi/pihole-filters)
+- [ ] [S0m3sushi - Pihole Filters](https://github.com/s0m3sushi/pihole-filters)
 
 - [ ] [InfinityTec - Blocklists](https://github.com/infinitytec/blocklists)
       
