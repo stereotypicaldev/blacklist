@@ -2,7 +2,7 @@
 
 - [x] https://github.com/blocklistproject/Lists
 
-
+- [x] https://avoidthehack.com/best-pihole-blocklists
 
 
 
