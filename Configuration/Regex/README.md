@@ -24,7 +24,7 @@
 
 - [x] [Hemiipatu - Pihole Blocklists](https://github.com/hemiipatu/PiHoleBlocklists)
 
-- [ ] [HeribertoKubuntu - Pihole](https://github.com/HeribertoKubuntu/pihole)
+- [x] [HeribertoKubuntu - Pihole](https://github.com/HeribertoKubuntu/pihole)
 
 - [ ] [HL2Guide - Filterlists for Adguard or PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)
 
