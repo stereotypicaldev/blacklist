@@ -22,7 +22,7 @@
 
 - [x] [Greg-2600 - Pihole Blocklist](https://github.com/Greg-2600/pihole_block_list)
 
-- [ ] [Hemiipatu - Pihole Blocklists](https://github.com/hemiipatu/PiHoleBlocklists)
+- [x] [Hemiipatu - Pihole Blocklists](https://github.com/hemiipatu/PiHoleBlocklists)
 
 - [ ] [HeribertoKubuntu - Pihole](https://github.com/HeribertoKubuntu/pihole)
 
