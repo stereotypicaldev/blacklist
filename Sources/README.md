@@ -14,7 +14,9 @@
 
 - [x] [Blockconvert](https://github.com/mkb2091/blockconvert)
 
-- [x] [DavidTai780](https://github.com/DavidTai780/AdGuard-Home-Private-Rules)
+- [ ] [StevenBlack](https://github.com/StevenBlack/hosts)
+
+- [x] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
 
 ## Advertisments
 
@@ -44,6 +46,13 @@
 
 - [x] [CitizenXVIL - Hosts](https://github.com/CitizenXVIL/Hosts)
 
+- [x] [DavidTai780](https://github.com/DavidTai780/AdGuard-Home-Private-Rules)
+
+- [ ] [FadeMind - host.Extra](https://github.com/FadeMind/hosts.extras)
+
+- [ ] [FiltersHeroes - KADHosts](https://github.com/FiltersHeroes/KADhosts)
+
+- [ ] [Easylist](https://easylist.to/)
 
 ## Tracking, Analytics & Metrics
 
@@ -54,6 +63,22 @@
 - [ ] https://git.frogeye.fr/geoffrey/eulaurarien/
 
 - [x] [Combined Privacy Blocklists](https://github.com/bongochong/CombinedPrivacyBlockLists)
+
+## Malware
+
+- [ ] [Badd-Boyz-Hosts](https://github.com/mitchellkrogza/Badd-Boyz-Hosts)
+
+- [ ] [AdGuardDNS](https://github.com/AdguardTeam/AdguardDNS)
+
+
+
+
+
+
+
+
+
+
 
 https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator
 
