@@ -12,6 +12,8 @@
 
 - [x] [Adawaylist JP](https://github.com/multiverse2011/adawaylist-jp)
 
+- [x] [Adblock by Jm](https://github.com/jmhenrique/adblock)
+
 https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator
 
 - https://github.com/rentry00/adguard
