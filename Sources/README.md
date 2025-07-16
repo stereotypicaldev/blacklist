@@ -18,6 +18,9 @@
 
 - [x] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
 
+- [ ] [DandelionSprout - Adflit](https://github.com/DandelionSprout/adfilt)
+
+
 ## Advertisments
 
 - [x] [Adawaylist JP](https://github.com/multiverse2011/adawaylist-jp)
