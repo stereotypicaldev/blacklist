@@ -14,6 +14,8 @@
 
 - [x] [Blockconvert](https://github.com/mkb2091/blockconvert)
 
+- [x] [DavidTai780](https://github.com/DavidTai780/AdGuard-Home-Private-Rules)
+
 ## Advertisments
 
 - [x] [Adawaylist JP](https://github.com/multiverse2011/adawaylist-jp)
