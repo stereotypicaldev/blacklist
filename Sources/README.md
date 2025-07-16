@@ -29,6 +29,8 @@
 
 - [x] [BAR-Lists](https://github.com/zznidar/BAR)
 
+- [x] [Bjornstar](https://github.com/bjornstar/hosts)
+
 ## Tracking, Analytics & Metrics
 
 - [x] [anudeepND - Blacklist](https://github.com/anudeepnd/blacklist)
