@@ -51,6 +51,7 @@
    
 - [ ] https://git.frogeye.fr/geoffrey/eulaurarien/
 
+- [x] [Combined Privacy Blocklists](https://github.com/bongochong/CombinedPrivacyBlockLists)
 
 https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator
 
