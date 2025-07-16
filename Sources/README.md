@@ -10,6 +10,7 @@
 
 - [x] [1Hosts](https://github.com/badmojr/1Hosts)
 
+- [x] [Adawaylist JP](https://github.com/multiverse2011/adawaylist-jp)
 
 https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator
 
