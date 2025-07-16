@@ -8,6 +8,7 @@
 
 - [x] [HaGeZi](https://github.com/hagezi/dns-blocklists)
 
+- [x] [1Hosts](https://github.com/badmojr/1Hosts)
 
 
 https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator
