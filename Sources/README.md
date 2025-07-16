@@ -1,3 +1,5 @@
+## Aggregators
+
 - [x] [The Firebog](https://firebog.net)
 
 - [x] [The Blocklist Project](https://github.com/blocklistproject/Lists)
@@ -10,9 +12,22 @@
 
 - [x] [1Hosts](https://github.com/badmojr/1Hosts)
 
+
+## Advertisments
+
 - [x] [Adawaylist JP](https://github.com/multiverse2011/adawaylist-jp)
 
 - [x] [Adblock by Jm](https://github.com/jmhenrique/adblock)
+
+- [x] [DRSDavidSoft - Additional Undesired Hosts](https://github.com/drsdavidsoft/additional-hosts)
+
+- [x] [Mobile Hosts](https://github.com/r-a-y/mobile-hosts)
+
+
+
+## Tracking, Analytics & Metrics
+
+- [ ] https://git.frogeye.fr/geoffrey/eulaurarien/
 
 https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator
 
@@ -122,7 +137,7 @@ https://github.com/deep-bhatt/huawei-block-list
 
 - https://github.com/dibdot/doh-ip-blocklists
 
-- https://github.com/drsdavidsoft/additional-hosts
+
 
 - https://github.com/durablenapkin/scamblocklist
 
@@ -322,7 +337,7 @@ https://github.com/Phishing-Database/Phishing.Database
 
 https://github.com/pirat28/ihatetracker
 
-- https://github.com/r-a-y/mobile-hosts
+
 
 https://github.com/Rhys-H/hosts-list
 
