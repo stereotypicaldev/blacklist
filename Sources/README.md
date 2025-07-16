@@ -25,6 +25,7 @@
 
 - [x] [anti-AD](https://anti-ad.net/)
 
+- [x] [Anti-PopAds](https://github.com/Veticia/antipopads)
 
 ## Tracking, Analytics & Metrics
 
