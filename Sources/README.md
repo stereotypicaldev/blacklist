@@ -27,6 +27,8 @@
 
 - [x] [Anti-PopAds](https://github.com/Veticia/antipopads)
 
+- [x] [BAR-Lists](https://github.com/zznidar/BAR)
+
 ## Tracking, Analytics & Metrics
 
 - [x] [anudeepND - Blacklist](https://github.com/anudeepnd/blacklist)
