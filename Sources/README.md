@@ -12,6 +12,7 @@
 
 - [x] [1Hosts](https://github.com/badmojr/1Hosts)
 
+- [x] [Blockconvert](https://github.com/mkb2091/blockconvert)
 
 ## Advertisments
 
@@ -31,11 +32,25 @@
 
 - [x] [Bjornstar](https://github.com/bjornstar/hosts)
 
+- [x] [Perflyst - PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist)
+
+- [x] [GFWList](https://github.com/gfwlist/gfwlist)
+
+- [x] [CAMELEON Hosts](https://sysctl.org/cameleon/)
+
+- [x] [Chrisjudk - Hosts](https://github.com/chrisjudk/hosts)
+
+- [x] [CitizenXVIL - Hosts](https://github.com/CitizenXVIL/Hosts)
+
+
 ## Tracking, Analytics & Metrics
 
 - [x] [anudeepND - Blacklist](https://github.com/anudeepnd/blacklist)
+
+- [x] [Zoonderkins - Xiaomi Blocklist](https://gist.github.com/zoonderkins/232057d3562bffc31daa7739dfdb4469)
    
 - [ ] https://git.frogeye.fr/geoffrey/eulaurarien/
+
 
 https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator
 
