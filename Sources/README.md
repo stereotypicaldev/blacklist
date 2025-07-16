@@ -23,6 +23,7 @@
 
 - [x] [Mobile Hosts](https://github.com/r-a-y/mobile-hosts)
 
+- [x] [anti-AD](https://anti-ad.net/)
 
 
 ## Tracking, Analytics & Metrics
