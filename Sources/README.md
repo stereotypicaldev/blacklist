@@ -20,7 +20,6 @@
 
 - [ ] [DandelionSprout - Adflit](https://github.com/DandelionSprout/adfilt)
 
-
 ## Advertisments
 
 - [x] [Adawaylist JP](https://github.com/multiverse2011/adawaylist-jp)
@@ -50,6 +49,8 @@
 - [x] [CitizenXVIL - Hosts](https://github.com/CitizenXVIL/Hosts)
 
 - [x] [DavidTai780](https://github.com/DavidTai780/AdGuard-Home-Private-Rules)
+
+- [x] [DataMaster Android AdBlock](https://github.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts)
 
 - [ ] [FadeMind - host.Extra](https://github.com/FadeMind/hosts.extras)
 
