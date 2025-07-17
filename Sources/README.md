@@ -74,6 +74,8 @@
 
 - [x] [Combined Privacy Blocklists](https://github.com/bongochong/CombinedPrivacyBlockLists)
 
+- [ ] [uAssets](https://github.com/dhowe/uAssets)
+
 ## Malware
 
 - [ ] [Badd-Boyz-Hosts](https://github.com/mitchellkrogza/Badd-Boyz-Hosts)
