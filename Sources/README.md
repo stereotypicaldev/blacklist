@@ -78,6 +78,8 @@
 
 - [ ] [uAssets](https://github.com/dhowe/uAssets)
 
+- [x] [Developer Dan's](https://www.github.developerdan.com/hosts/)
+
 ## Malware
 
 - [ ] [Badd-Boyz-Hosts](https://github.com/mitchellkrogza/Badd-Boyz-Hosts)
