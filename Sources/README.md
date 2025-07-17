@@ -62,6 +62,8 @@
 
 - [ ] [AdguardFilters](https://github.com/AdguardTeam/AdguardFilters)
 
+- [ ] [AdGuard DNS Filters](https://github.com/AdguardTeam/AdguardSDNSFilter)
+
 ## Tracking, Analytics & Metrics
 
 - [x] [anudeepND - Blacklist](https://github.com/anudeepnd/blacklist)
