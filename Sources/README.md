@@ -66,6 +66,8 @@
 
 - [x] [ADPMobileFilter](https://github.com/T4Tea/ADPMobileFilter/)
 
+- [ ] [Adversity](https://github.com/Hubird-au/Adversity)
+
 ## Tracking, Analytics & Metrics
 
 - [x] [anudeepND - Blacklist](https://github.com/anudeepnd/blacklist)
