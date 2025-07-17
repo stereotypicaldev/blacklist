@@ -58,6 +58,10 @@
 
 - [ ] [Easylist](https://easylist.to/)
 
+- [x] [ADgk Mobile Advertising Rules](https://github.com/banbendalao/ADgk)
+
+- [ ] [AdguardFilters](https://github.com/AdguardTeam/AdguardFilters)
+
 ## Tracking, Analytics & Metrics
 
 - [x] [anudeepND - Blacklist](https://github.com/anudeepnd/blacklist)
