@@ -64,6 +64,8 @@
 
 - [ ] [AdGuard DNS Filters](https://github.com/AdguardTeam/AdguardSDNSFilter)
 
+- [x] [ADPMobileFilter](https://github.com/T4Tea/ADPMobileFilter/)
+
 ## Tracking, Analytics & Metrics
 
 - [x] [anudeepND - Blacklist](https://github.com/anudeepnd/blacklist)
