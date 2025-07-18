@@ -1,56 +1,70 @@
 ## Aggregators
 
-- [ ] [The Firebog](https://firebog.net)
+- [x] [The Firebog](https://firebog.net)
 
-- [ ] [The Blocklist Project](https://github.com/blocklistproject/Lists)
+- [x] [The Blocklist Project](https://github.com/blocklistproject/Lists)
 
-- [ ] [Avoid The Hack](https://avoidthehack.com/best-pihole-blocklists)
+- [x] [Avoid The Hack](https://avoidthehack.com/best-pihole-blocklists)
 
-- [ ] [OISD](https://oisd.nl/setup/pihole)
+- [x] [OISD](https://oisd.nl/setup/pihole)
 
-- [ ] [HaGeZi](https://github.com/hagezi/dns-blocklists)
+- [x] [HaGeZi](https://github.com/hagezi/dns-blocklists)
 
-- [ ] [1Hosts](https://github.com/badmojr/1Hosts)
+- [x] [1Hosts](https://github.com/badmojr/1Hosts)
 
-- [ ] [Blockconvert](https://github.com/mkb2091/blockconvert)
+- [x] [StevenBlack](https://github.com/StevenBlack/hosts)
 
-- [ ] [StevenBlack](https://github.com/StevenBlack/hosts)
+- [x] [Blockconvert](https://github.com/mkb2091/blockconvert)
 
-- [ ] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
+- [x] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
+
+- [x] [Energized Protection](https://github.com/EnergizedProtection/block)
+
+- [x] [DataMaster's Android](https://github.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts)
+
+- [x] [MoaAB: Mother of All AD-Blocking](https://xdaforums.com/t/moaab-mother-of-all-ad-blocking-blocks-adware-malware-spyware-bloatware-ransomware.1916098/)
+
+- [x] [Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)
+
+- [x] [Pihole Blocklist: New Domains](https://blocked.cyou/)
+
+- [x] [hBlock](https://github.com/hectorm/hblock)
+
+- [x] [Emerging-Malicious-Domain-Blocklist](https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist)
 
 - [ ] [DandelionSprout - Adflit](https://github.com/DandelionSprout/adfilt)
 
 ## Advertisments
 
-- [x] [Adawaylist JP](https://github.com/multiverse2011/adawaylist-jp)
+- [ ] [Adawaylist JP](https://github.com/multiverse2011/adawaylist-jp)
 
-- [x] [Adblock by Jm](https://github.com/jmhenrique/adblock)
+- [ ] [Adblock by Jm](https://github.com/jmhenrique/adblock)
 
-- [x] [DRSDavidSoft - Additional Undesired Hosts](https://github.com/drsdavidsoft/additional-hosts)
+- [ ] [DRSDavidSoft - Additional Undesired Hosts](https://github.com/drsdavidsoft/additional-hosts)
 
-- [x] [Mobile Hosts](https://github.com/r-a-y/mobile-hosts)
+- [ ] [Mobile Hosts](https://github.com/r-a-y/mobile-hosts)
 
-- [x] [anti-AD](https://anti-ad.net/)
+- [ ] [anti-AD](https://anti-ad.net/)
 
-- [x] [Anti-PopAds](https://github.com/Veticia/antipopads)
+- [ ] [Anti-PopAds](https://github.com/Veticia/antipopads)
 
-- [x] [BAR-Lists](https://github.com/zznidar/BAR)
+- [ ] [BAR-Lists](https://github.com/zznidar/BAR)
 
-- [x] [Bjornstar](https://github.com/bjornstar/hosts)
+- [ ] [Bjornstar](https://github.com/bjornstar/hosts)
 
-- [x] [Perflyst - PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist)
+- [ ] [Perflyst - PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist)
 
-- [x] [GFWList](https://github.com/gfwlist/gfwlist)
+- [ ] [GFWList](https://github.com/gfwlist/gfwlist)
 
-- [x] [CAMELEON Hosts](https://sysctl.org/cameleon/)
+- [ ] [CAMELEON Hosts](https://sysctl.org/cameleon/)
 
-- [x] [Chrisjudk - Hosts](https://github.com/chrisjudk/hosts)
+- [ ] [Chrisjudk - Hosts](https://github.com/chrisjudk/hosts)
 
-- [x] [CitizenXVIL - Hosts](https://github.com/CitizenXVIL/Hosts)
+- [ ] [CitizenXVIL - Hosts](https://github.com/CitizenXVIL/Hosts)
 
-- [x] [DavidTai780](https://github.com/DavidTai780/AdGuard-Home-Private-Rules)
+- [ ] [DavidTai780](https://github.com/DavidTai780/AdGuard-Home-Private-Rules)
 
-- [x] [DataMaster Android AdBlock](https://github.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts)
+- [ ] [DataMaster Android AdBlock](https://github.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts)
 
 - [ ] [FadeMind - host.Extra](https://github.com/FadeMind/hosts.extras)
 
@@ -58,29 +72,29 @@
 
 - [ ] [Easylist](https://easylist.to/)
 
-- [x] [ADgk Mobile Advertising Rules](https://github.com/banbendalao/ADgk)
+- [ ] [ADgk Mobile Advertising Rules](https://github.com/banbendalao/ADgk)
 
 - [ ] [AdguardFilters](https://github.com/AdguardTeam/AdguardFilters)
 
 - [ ] [AdGuard DNS Filters](https://github.com/AdguardTeam/AdguardSDNSFilter)
 
-- [x] [ADPMobileFilter](https://github.com/T4Tea/ADPMobileFilter/)
+- [ ] [ADPMobileFilter](https://github.com/T4Tea/ADPMobileFilter/)
 
 - [ ] [Adversity](https://github.com/Hubird-au/Adversity)
 
 ## Tracking, Analytics & Metrics
 
-- [x] [anudeepND - Blacklist](https://github.com/anudeepnd/blacklist)
+- [ ] [anudeepND - Blacklist](https://github.com/anudeepnd/blacklist)
 
-- [x] [Zoonderkins - Xiaomi Blocklist](https://gist.github.com/zoonderkins/232057d3562bffc31daa7739dfdb4469)
+- [ ] [Zoonderkins - Xiaomi Blocklist](https://gist.github.com/zoonderkins/232057d3562bffc31daa7739dfdb4469)
    
 - [ ] https://git.frogeye.fr/geoffrey/eulaurarien/
 
-- [x] [Combined Privacy Blocklists](https://github.com/bongochong/CombinedPrivacyBlockLists)
+- [ ] [Combined Privacy Blocklists](https://github.com/bongochong/CombinedPrivacyBlockLists)
 
 - [ ] [uAssets](https://github.com/dhowe/uAssets)
 
-- [x] [Developer Dan's](https://www.github.developerdan.com/hosts/)
+- [ ] [Developer Dan's](https://www.github.developerdan.com/hosts/)
 
 ## Malware
 
@@ -91,6 +105,8 @@
 
 
 
+
+https://github.com/d3ward/toolz
 
 
 
