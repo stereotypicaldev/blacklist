@@ -36,6 +36,31 @@
 
 ## Advertisments
 
+- [x] [1024_hosts](https://github.com/Goooler/1024_hosts/)
+
+- [x] [arapurayil's Block List (aBL)](https://github.com/arapurayil/aBL/)
+
+- [x] [Zonprox - Adblock](https://github.com/zonprox/adblock/)
+
+- [x] [ABPVN](https://abpvn.com/)
+
+- [x] [LanikSJ - ubo-filters](https://github.com/LanikSJ/ubo-filters)
+
+4/44 (start) - ads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - [ ] [Adawaylist JP](https://github.com/multiverse2011/adawaylist-jp)
 
 - [ ] [Adblock by Jm](https://github.com/jmhenrique/adblock)
