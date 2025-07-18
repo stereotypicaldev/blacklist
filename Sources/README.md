@@ -1,22 +1,22 @@
 ## Aggregators
 
-- [x] [The Firebog](https://firebog.net)
+- [ ] [The Firebog](https://firebog.net)
 
-- [x] [The Blocklist Project](https://github.com/blocklistproject/Lists)
+- [ ] [The Blocklist Project](https://github.com/blocklistproject/Lists)
 
-- [x] [Avoid The Hack](https://avoidthehack.com/best-pihole-blocklists)
+- [ ] [Avoid The Hack](https://avoidthehack.com/best-pihole-blocklists)
 
-- [x] [OISD](https://oisd.nl/setup/pihole)
+- [ ] [OISD](https://oisd.nl/setup/pihole)
 
-- [x] [HaGeZi](https://github.com/hagezi/dns-blocklists)
+- [ ] [HaGeZi](https://github.com/hagezi/dns-blocklists)
 
-- [x] [1Hosts](https://github.com/badmojr/1Hosts)
+- [ ] [1Hosts](https://github.com/badmojr/1Hosts)
 
-- [x] [Blockconvert](https://github.com/mkb2091/blockconvert)
+- [ ] [Blockconvert](https://github.com/mkb2091/blockconvert)
 
 - [ ] [StevenBlack](https://github.com/StevenBlack/hosts)
 
-- [x] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
+- [ ] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
 
 - [ ] [DandelionSprout - Adflit](https://github.com/DandelionSprout/adfilt)
 
