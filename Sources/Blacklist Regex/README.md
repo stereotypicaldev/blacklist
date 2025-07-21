@@ -10,4 +10,4 @@
 
 - [x] [anthony-wang - PiHoleBlocklist](https://github.com/anthony-wang/PiHoleBlocklist/)
 
-- [ ]  
+- [x] [MajkilT - polish-ads-filter](https://github.com/MajkiIT/polish-ads-filter)
