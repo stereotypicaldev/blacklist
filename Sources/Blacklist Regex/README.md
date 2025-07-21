@@ -17,3 +17,6 @@
 - [x] [xlimit91 - xlimit91-block-list](https://github.com/xlimit91/xlimit91-block-list)
 
 - [x] [Vincent-Millane - CNAME-Cloacking & Tracking](https://github.com/Vincent-Millane/cname-cloaking_and_tracking/tree/main)
+
+- [x] [DandelionSprout - adfilt](https://github.com/DandelionSprout/adfilt)
+- [ ] 
