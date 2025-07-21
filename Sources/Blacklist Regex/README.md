@@ -19,4 +19,7 @@
 - [x] [Vincent-Millane - CNAME-Cloacking & Tracking](https://github.com/Vincent-Millane/cname-cloaking_and_tracking/tree/main)
 
 - [x] [DandelionSprout - adfilt](https://github.com/DandelionSprout/adfilt)
-- [ ] 
+
+- [x] [eternnoir - pihole-regex.list](https://github.com/eternnoir/pihole-regex.list)
+
+- [x]  [radoslawkierznowski - regex-importer](https://github.com/radoslawkierznowski/regex-importer-for-pi-hole/tree/master)
