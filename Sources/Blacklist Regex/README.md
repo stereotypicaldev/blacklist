@@ -8,4 +8,6 @@
 
 - [x] [Perrflyst - PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist/)
 
-- [ ] 
+- [x] [anthony-wang - PiHoleBlocklist](https://github.com/anthony-wang/PiHoleBlocklist/)
+
+- [ ]  
