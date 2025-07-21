@@ -3,3 +3,6 @@
 <br>
 
 - [x] [MMotti's Pihole Regex](https://github.com/mmotti/pihole-regex)
+
+- [x] [PebbleOG - pihole-regex](https://github.com/PebbleOG/pihole-regex/)
+
