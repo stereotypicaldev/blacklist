@@ -2,6 +2,8 @@
 
 - [x] [The Firebog](https://firebog.net)
 
+- [x] [The All-In-One Firebog Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
+
 - [x] [The Blocklist Project](https://github.com/blocklistproject/Lists)
 
 - [x] [Avoid The Hack](https://avoidthehack.com/best-pihole-blocklists)
