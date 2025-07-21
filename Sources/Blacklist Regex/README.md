@@ -6,3 +6,6 @@
 
 - [x] [PebbleOG - pihole-regex](https://github.com/PebbleOG/pihole-regex/)
 
+- [x] [Perrflyst - PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist/)
+
+- [ ] 
