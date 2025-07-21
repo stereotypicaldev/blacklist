@@ -48,10 +48,12 @@
 
 - [x] [LanikSJ - ubo-filters](https://github.com/LanikSJ/ubo-filters)
 
-4/44 (start) - ads
 
+### Malware, Phishing & Threat-Intelligence
 
+- [x] [xRuffKez - NRD Lists - Block Newly Registered Domains](https://github.com/xRuffKez/NRD)
 
+- [ ] 
 
 
 
