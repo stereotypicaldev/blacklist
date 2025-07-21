@@ -15,3 +15,5 @@
 - [x] [Revolveruk30 - Pihole Regex](https://github.com/revolveruk30/pihole-regex)
 
 - [x] [xlimit91 - xlimit91-block-list](https://github.com/xlimit91/xlimit91-block-list)
+
+- [x] [Vincent-Millane - CNAME-Cloacking & Tracking](https://github.com/Vincent-Millane/cname-cloaking_and_tracking/tree/main)
