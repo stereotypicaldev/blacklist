@@ -2,7 +2,7 @@
 
 - [x]  [The Firebog](https://firebog.net)
 
-- [ ] [The All-In-One Firebog Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
+- [x] [The All-In-One Firebog Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
 
 - [ ] [The Blocklist Project](https://github.com/blocklistproject/Lists)
 
