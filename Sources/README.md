@@ -8,7 +8,7 @@
 
 - [x] [OISD](https://oisd.nl/setup/pihole)
 
-- [ ] [HaGeZi](https://github.com/hagezi/dns-blocklists)
+- [x] [HaGeZi](https://github.com/hagezi/dns-blocklists)
 
 - [ ] [1Hosts](https://github.com/badmojr/1Hosts)
 
