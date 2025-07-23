@@ -18,7 +18,7 @@
 
 - [x] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
 
-- [ ] [Energized Protection](https://github.com/EnergizedProtection/block)
+- [x] [Energized Protection](https://github.com/EnergizedProtection/block)
 
 - [ ] [DataMaster's Android](https://github.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts)
 
