@@ -4,9 +4,7 @@
 
 - [x] [The All-In-One Firebog Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
 
-- [ ] [The Blocklist Project](https://github.com/blocklistproject/Lists)
-
-- [ ] [Avoid The Hack](https://avoidthehack.com/best-pihole-blocklists)
+- [x] [The Blocklist Project](https://github.com/blocklistproject/Lists)
 
 - [ ] [OISD](https://oisd.nl/setup/pihole)
 
