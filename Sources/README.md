@@ -12,7 +12,7 @@
 
 - [x] [1Hosts](https://github.com/badmojr/1Hosts)
 
-- [ ] [StevenBlack](https://github.com/StevenBlack/hosts)
+- [x] [StevenBlack](https://github.com/StevenBlack/hosts)
 
 - [ ] [Blockconvert](https://github.com/mkb2091/blockconvert)
 
