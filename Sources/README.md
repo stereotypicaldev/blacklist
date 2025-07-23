@@ -16,7 +16,7 @@
 
 - [x] [Blockconvert](https://github.com/mkb2091/blockconvert)
 
-- [ ] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
+- [x] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
 
 - [ ] [Energized Protection](https://github.com/EnergizedProtection/block)
 
