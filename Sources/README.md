@@ -6,7 +6,7 @@
 
 - [x] [The Blocklist Project](https://github.com/blocklistproject/Lists)
 
-- [ ] [OISD](https://oisd.nl/setup/pihole)
+- [x] [OISD](https://oisd.nl/setup/pihole)
 
 - [ ] [HaGeZi](https://github.com/hagezi/dns-blocklists)
 
