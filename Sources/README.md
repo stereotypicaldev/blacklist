@@ -1,57 +1,57 @@
 ## Aggregators
 
-- [x] [The Firebog](https://firebog.net)
+- [ ]  [The Firebog](https://firebog.net)
 
-- [x] [The All-In-One Firebog Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
+- [ ] [The All-In-One Firebog Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
 
-- [x] [The Blocklist Project](https://github.com/blocklistproject/Lists)
+- [ ] [The Blocklist Project](https://github.com/blocklistproject/Lists)
 
-- [x] [Avoid The Hack](https://avoidthehack.com/best-pihole-blocklists)
+- [ ] [Avoid The Hack](https://avoidthehack.com/best-pihole-blocklists)
 
-- [x] [OISD](https://oisd.nl/setup/pihole)
+- [ ] [OISD](https://oisd.nl/setup/pihole)
 
-- [x] [HaGeZi](https://github.com/hagezi/dns-blocklists)
+- [ ] [HaGeZi](https://github.com/hagezi/dns-blocklists)
 
-- [x] [1Hosts](https://github.com/badmojr/1Hosts)
+- [ ] [1Hosts](https://github.com/badmojr/1Hosts)
 
-- [x] [StevenBlack](https://github.com/StevenBlack/hosts)
+- [ ] [StevenBlack](https://github.com/StevenBlack/hosts)
 
-- [x] [Blockconvert](https://github.com/mkb2091/blockconvert)
+- [ ] [Blockconvert](https://github.com/mkb2091/blockconvert)
 
-- [x] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
+- [ ] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
 
-- [x] [Energized Protection](https://github.com/EnergizedProtection/block)
+- [ ] [Energized Protection](https://github.com/EnergizedProtection/block)
 
-- [x] [DataMaster's Android](https://github.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts)
+- [ ] [DataMaster's Android](https://github.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts)
 
-- [x] [MoaAB: Mother of All AD-Blocking](https://xdaforums.com/t/moaab-mother-of-all-ad-blocking-blocks-adware-malware-spyware-bloatware-ransomware.1916098/)
+- [ ] [MoaAB: Mother of All AD-Blocking](https://xdaforums.com/t/moaab-mother-of-all-ad-blocking-blocks-adware-malware-spyware-bloatware-ransomware.1916098/)
 
-- [x] [Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)
+- [ ] [Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)
 
-- [x] [Pihole Blocklist: New Domains](https://blocked.cyou/)
+- [ ] [Pihole Blocklist: New Domains](https://blocked.cyou/)
 
-- [x] [hBlock](https://github.com/hectorm/hblock)
+- [ ] [hBlock](https://github.com/hectorm/hblock)
 
-- [x] [Emerging-Malicious-Domain-Blocklist](https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist)
+- [ ] [Emerging-Malicious-Domain-Blocklist](https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist)
 
 - [ ] [DandelionSprout - Adflit](https://github.com/DandelionSprout/adfilt)
 
 ## Advertisments
 
-- [x] [1024_hosts](https://github.com/Goooler/1024_hosts/)
+- [ ] [1024_hosts](https://github.com/Goooler/1024_hosts/)
 
-- [x] [arapurayil's Block List (aBL)](https://github.com/arapurayil/aBL/)
+- [ ] [arapurayil's Block List (aBL)](https://github.com/arapurayil/aBL/)
 
-- [x] [Zonprox - Adblock](https://github.com/zonprox/adblock/)
+- [ ] [Zonprox - Adblock](https://github.com/zonprox/adblock/)
 
-- [x] [ABPVN](https://abpvn.com/)
+- [ ] [ABPVN](https://abpvn.com/)
 
-- [x] [LanikSJ - ubo-filters](https://github.com/LanikSJ/ubo-filters)
+- [ ] [LanikSJ - ubo-filters](https://github.com/LanikSJ/ubo-filters)
 
 
 ### Malware, Phishing & Threat-Intelligence
 
-- [x] [xRuffKez - NRD Lists - Block Newly Registered Domains](https://github.com/xRuffKez/NRD)
+- [ ] [xRuffKez - NRD Lists - Block Newly Registered Domains](https://github.com/xRuffKez/NRD)
 
 - [ ] 
 
