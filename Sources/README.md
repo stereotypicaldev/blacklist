@@ -10,7 +10,7 @@
 
 - [x] [HaGeZi](https://github.com/hagezi/dns-blocklists)
 
-- [ ] [1Hosts](https://github.com/badmojr/1Hosts)
+- [x] [1Hosts](https://github.com/badmojr/1Hosts)
 
 - [ ] [StevenBlack](https://github.com/StevenBlack/hosts)
 
