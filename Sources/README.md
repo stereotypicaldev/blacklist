@@ -14,7 +14,7 @@
 
 - [x] [StevenBlack](https://github.com/StevenBlack/hosts)
 
-- [ ] [Blockconvert](https://github.com/mkb2091/blockconvert)
+- [x] [Blockconvert](https://github.com/mkb2091/blockconvert)
 
 - [ ] [Sophos XG](https://github.com/austinheap/sophos-xg-block-lists)
 
