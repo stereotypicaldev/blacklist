@@ -1,6 +1,6 @@
 ## Aggregators
 
-- [ ]  [The Firebog](https://firebog.net)
+- [x]  [The Firebog](https://firebog.net)
 
 - [ ] [The All-In-One Firebog Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
 
