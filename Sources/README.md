@@ -22,7 +22,7 @@
 
 - [x] [DataMaster's Android](https://github.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts)
 
-- [ ] [MoaAB: Mother of All AD-Blocking](https://xdaforums.com/t/moaab-mother-of-all-ad-blocking-blocks-adware-malware-spyware-bloatware-ransomware.1916098/)
+- [x] [MoaAB: Mother of All AD-Blocking](https://xdaforums.com/t/moaab-mother-of-all-ad-blocking-blocks-adware-malware-spyware-bloatware-ransomware.1916098/)
 
 - [ ] [Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)
 
