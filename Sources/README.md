@@ -32,11 +32,25 @@
 
 - [x] [Emerging-Malicious-Domain-Blocklist](https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist)
 
+- [x] [PiholeParser](https://github.com/deathbybandaid/piholeparser)
+   
 - [ ] [DandelionSprout - Adflit](https://github.com/DandelionSprout/adfilt)
 
 ## Advertisments
 
 - [x] [1024_hosts](https://github.com/Goooler/1024_hosts/)
+
+## Miscellaneous
+
+- [x] [Burner Email Providers](https://github.com/wesbos/burner-email-providers)
+
+
+
+
+
+
+
+
 
 - [ ] [arapurayil's Block List (aBL)](https://github.com/arapurayil/aBL/)
 
