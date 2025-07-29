@@ -17,6 +17,7 @@
 ![Domains on Adlist](https://img.shields.io/badge/21.126.772-blue?style=flat&label=Domains%20on%20Adlist&labelColor=%23A51D2D&color=%23FBF6A6)
 
 ![Adlists](https://img.shields.io/badge/249-blue?style=flat&label=Adlists&labelColor=%23A51D2D&color=%23FBF6A6)
+
 ![Regex Filters](https://img.shields.io/badge/2.636-blue?style=flat&label=Regex%20Filters&labelColor=%23A51D2D&color=%23FBF6A6)
 
 </div>
