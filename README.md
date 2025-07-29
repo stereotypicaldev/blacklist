@@ -84,18 +84,6 @@ For most users leveraging [Pi-hole](https://pi-hole.net/), I recommend:
 - [Raspberry Pi](https://github.com/gzachariadis/Raspberry-Pi) - A comprehensive guide on configuring your Raspberry Pi for optimal performance, reliability, power-consumption, security & privacy.
 
 <br>
-
-<h3>📝 Contributing</h3>
-
-In case, you have suggestions, new blocklist sources, or want to report an issue:
-
-- Fork the repository.
-- Create a new branch (feature/your-feature-name).
-- Commit your changes (git commit -m 'Describe your changes').
-- Push to the branch (git push origin feature/your-feature-name).
-- Open a Pull Request and join the discussion.
-
-<br>
 <br>
 
 <div align="center">
