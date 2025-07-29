@@ -71,8 +71,6 @@ While blocklists offer significant protection against trackers, malware, and adv
 
 For most users leveraging [Pi-hole](https://pi-hole.net/), I recommend:
 
-- [uBlock Origin](https://ublockorigin.com/) - A browser extension which offers advanced ad and tracker blocking capabilities, allowing for fine-grained control over what content is allowed or blocked. It works seamlessly alongside Pi-hole to provide an extra layer of protection at the browser level and minimizes the number of requests reaching your DNS.
-
 - [Unbound](https://www.nlnetlabs.nl/projects/unbound/about/): A high-performance, open-source DNS resolver that improves security and privacy by handling DNS queries and providing features like DNSSEC validation.
 
 <h3>🔗 Proposed Resources</h3>
