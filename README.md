@@ -54,25 +54,25 @@
 
 <h3>🚫 Blocklists Aggregator Sources</h3>
 
-- **[FilterLists](https://filterlists.com/)**
-
-- **[The Firebog](https://firebog.net)**
-
-- **[The Blocklist Project](https://github.com/blocklistproject/Lists)**
-
-- **[OISD](https://oisd.nl/setup/pihole)**
-
-- **[HaGeZi](https://github.com/hagezi/dns-blocklists)**
-
-- **[1Hosts](https://github.com/badmojr/1Hosts)**
-
-- **[StevenBlack](https://github.com/StevenBlack/hosts)**
-
-- **[Energized Protection](https://github.com/EnergizedProtection/block)**
-
-- **[Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)**
-
-- **[hBlock](https://github.com/hectorm/hblock)**
+  - **[FilterLists](https://filterlists.com/)**
+  
+  - **[The Firebog](https://firebog.net)**
+  
+  - **[The Blocklist Project](https://github.com/blocklistproject/Lists)**
+  
+  - **[OISD](https://oisd.nl/setup/pihole)**
+  
+  - **[HaGeZi](https://github.com/hagezi/dns-blocklists)**
+  
+  - **[1Hosts](https://github.com/badmojr/1Hosts)**
+  
+  - **[StevenBlack](https://github.com/StevenBlack/hosts)**
+  
+  - **[Energized Protection](https://github.com/EnergizedProtection/block)**
+  
+  - **[Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)**
+  
+  - **[hBlock](https://github.com/hectorm/hblock)**
 
   for a more detailed section, look [here.](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Adlists)
 
