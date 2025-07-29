@@ -79,7 +79,7 @@
 
 <br>
 
-<h3>🔗 Additional Sources</h3>
+<h3>Proposed Resources</h3>
 
 While blocklists offer significant protection against **trackers**, **malware**, and **advertisements**, relying solely on them is not a foolproof solution for safeguarding your digital footprint.
 
@@ -87,7 +87,7 @@ For most users leveraging [Pi-hole](https://pi-hole.net/), additional tooling th
 
 - [Unbound](https://www.nlnetlabs.nl/projects/unbound/about/): A high-performance, open-source DNS resolver that improves security and privacy by handling DNS queries and providing features like DNSSEC validation.
 
-<h3>🔗 Proposed Resources</h3>
+<h3>🔗 Additional Sources</h3>
 
 - [Whitelist](https://codeberg.org/gzachariadis/Whitelist") - Categorized domain-based whitelist suggestions for your favorite services, software and websites, compatible with Pi-hole.
 
