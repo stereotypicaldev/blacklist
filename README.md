@@ -33,8 +33,11 @@
 </p>
 
 <br>
+<br>
 
 <h3>📂 Categories</h3>
+
+<br>
 
 - DoH/VPN/TOR & Proxies - Block connections to public DNS‐over‐HTTPS (DoH) resolvers, VPN endpoint IPs, Tor exit nodes, and proxy services.
 
@@ -53,6 +56,8 @@
 <br>
 
 <h3>🚫 Blocklists Aggregator Sources</h3>
+
+<br>
 
    - **[FilterLists](https://filterlists.com/)**
    
@@ -78,11 +83,11 @@
 
 <br>
 
-<h3>🛡️ Security</h3>
+<h3>🔗 Additional Sources</h3>
 
-While blocklists offer significant protection against trackers, malware, and advertisements, relying solely on them is not a foolproof solution for safeguarding your digital footprint. The ever-evolving nature of online threats means that a layered approach to security is crucial. I personally highly recommend using a combination of tools and techniques to enhance your privacy and security. 
+While blocklists offer significant protection against **trackers**, **malware**, and **advertisements**, relying solely on them is not a foolproof solution for safeguarding your digital footprint.
 
-For most users leveraging [Pi-hole](https://pi-hole.net/), I recommend:
+For most users leveraging [Pi-hole](https://pi-hole.net/), additional tooling that could prove useful could be...
 
 - [Unbound](https://www.nlnetlabs.nl/projects/unbound/about/): A high-performance, open-source DNS resolver that improves security and privacy by handling DNS queries and providing features like DNSSEC validation.
 
@@ -92,9 +97,6 @@ For most users leveraging [Pi-hole](https://pi-hole.net/), I recommend:
 
 - [Pi-hole](https://github.com/gzachariadis/Pi-Hole) - A configuration guide for setting up fully self-contained recursive DNS resolver for maximum privacy and ad-blocking efficiency.
 
-- [Raspberry Pi](https://github.com/gzachariadis/Raspberry-Pi) - A comprehensive guide on configuring your Raspberry Pi for optimal performance, reliability, power-consumption, security & privacy.
-
-<br>
 <br>
 
 <div align="center">
