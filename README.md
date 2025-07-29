@@ -44,7 +44,7 @@
 
 - Tracking, Telemetry & Data Collection - Block domains used for analytics, usage tracking, telemetry (browser or app diagnostics), behavioral profiling, and even data collection from IoT devices.
   
-- Malware, Phishing & Threat Intelligence - Block domains confirmed or strongly suspected to host, Malware (trojans, ransomware, spyware), phishing sites (masquerading as banks, services) and command and control infastructure.
+- Malware, Phishing & Threat Intelligence - Domains confirmed or strongly suspected to host, malware, trojans, spyware, ransomware, plus command and control infastructure.
 
 - Social Media - Blocks domains associated with social media platforms (Facebook, Twitter, Instagram, etc.), their trackers, content delivery networks, APIs, and embedded widgets.
 
@@ -54,25 +54,25 @@
 
 <h3>🚫 Blocklists Aggregator Sources</h3>
 
-  - **[FilterLists](https://filterlists.com/)**
-  
-  - **[The Firebog](https://firebog.net)**
-  
-  - **[The Blocklist Project](https://github.com/blocklistproject/Lists)**
-  
-  - **[OISD](https://oisd.nl/setup/pihole)**
-  
-  - **[HaGeZi](https://github.com/hagezi/dns-blocklists)**
-  
-  - **[1Hosts](https://github.com/badmojr/1Hosts)**
-  
-  - **[StevenBlack](https://github.com/StevenBlack/hosts)**
-  
-  - **[Energized Protection](https://github.com/EnergizedProtection/block)**
-  
-  - **[Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)**
-  
-  - **[hBlock](https://github.com/hectorm/hblock)**
+   - **[FilterLists](https://filterlists.com/)**
+   
+   - **[The Firebog](https://firebog.net)**
+   
+   - **[The Blocklist Project](https://github.com/blocklistproject/Lists)**
+   
+   - **[OISD](https://oisd.nl/setup/pihole)**
+   
+   - **[HaGeZi](https://github.com/hagezi/dns-blocklists)**
+   
+   - **[1Hosts](https://github.com/badmojr/1Hosts)**
+   
+   - **[StevenBlack](https://github.com/StevenBlack/hosts)**
+   
+   - **[Energized Protection](https://github.com/EnergizedProtection/block)**
+   
+   - **[Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)**
+   
+   - **[hBlock](https://github.com/hectorm/hblock)**
 
   for a more detailed section, look [here.](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Adlists)
 
