@@ -36,7 +36,7 @@
 
 ## Advertisments
 
-- [ ] [1024_hosts](https://github.com/Goooler/1024_hosts/)
+- [x] [1024_hosts](https://github.com/Goooler/1024_hosts/)
 
 - [ ] [arapurayil's Block List (aBL)](https://github.com/arapurayil/aBL/)
 
