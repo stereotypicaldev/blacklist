@@ -72,7 +72,7 @@
 
 - **[Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)**
 
-- **[x] [hBlock](https://github.com/hectorm/hblock)**
+- **[hBlock](https://github.com/hectorm/hblock)**
 
   for a more detailed section, look [here.](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Adlists)
 
