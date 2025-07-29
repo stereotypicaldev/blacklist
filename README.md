@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-<i align="center">Proceed with caution; <u>disrupts functionality</u>.</i>
+  <i align="center">Proceed with caution; <ins>disrupts functionality</ins>.</i>
 </p>
 
 <br>
