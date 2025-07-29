@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <i align="center">A personal endeavor to reduce my trackable digital footprint and protect my network from exposure to undesirable digital content.</i>
+  <i align="center">A personal endeavor to reduce my trackable digital footprint and minimize exposure to undesirable digital content.</i>
 </p>
 
 <p align="center">
