@@ -27,7 +27,10 @@
 <br>
 
 <p align="center">
-  <i align="center">Proceed with caution; <ins>disrupts functionality</ins>.</i>
+  <i align="center">
+    <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjUwIiB2aWV3Qm94PSIwIDAgNjAwIDUwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LXNpemU9IjE4IiBmb250LWZhbWlseT0i
+c2Fucy1zZXJpZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzAwMDAwMDAiIHRleHQtZGVjb3JhdGlvbi1saW5lPSJ1bmRlcmxpbmUiIHRleHQtZGVjb3JhdGlvbi1vZmZzZXQ9IjAuMiVlbSI+ZGlzcnVwdHMgZnVuY3Rpb25hbGl0eTwvdGV4dD4KPC9zdmc+" alt="disrupts functionality underline" />
+  </i>
 </p>
 
 <br>
