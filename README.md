@@ -34,6 +34,8 @@
 
 <h3>📂 Categories</h3>
 
+<br>
+
 - DoH/VPN/TOR & Proxies
 - Top Level Domains (TLDs)
 - Advertisements
