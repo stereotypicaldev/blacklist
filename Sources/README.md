@@ -33,6 +33,8 @@
 - [x] [Emerging-Malicious-Domain-Blocklist](https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist)
 
 - [x] [PiholeParser](https://github.com/deathbybandaid/piholeparser)
+
+- [ ] [aBL](https://github.com/arapurayil/aBL/)
    
 - [ ] [DandelionSprout - Adflit](https://github.com/DandelionSprout/adfilt)
 
