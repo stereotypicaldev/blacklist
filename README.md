@@ -51,8 +51,6 @@
 
 - Miscellaneous - A catch‑all category for domains that don’t fit neatly into the other groups—gambling,fake news/misinformation etc.
 
-<br>
-
 <h3>🚫 Blocklists Aggregator Sources</h3>
 
    - **[FilterLists](https://filterlists.com/)**
@@ -77,8 +75,6 @@
 
   for a more detailed section, look [here.](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Adlists)
 
-<br>
-
 <h3>Proposed Resources</h3>
 
 While blocklists offer significant protection against **trackers**, **malware**, and **advertisements**, relying solely on them is not a foolproof solution for safeguarding your digital footprint.
@@ -93,6 +89,7 @@ For most users leveraging [Pi-hole](https://pi-hole.net/), additional tooling th
 
 - [Pi-hole](https://github.com/gzachariadis/Pi-Hole) - A configuration guide for setting up fully self-contained recursive DNS resolver for maximum privacy and ad-blocking efficiency.
 
+<br>
 <br>
 
 <div align="center">
