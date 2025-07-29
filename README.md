@@ -36,17 +36,19 @@
 
 <h3>📂 Categories</h3>
 
-- Tracking - Blocks domains known for tracking user activities.
+- DoH/VPN/TOR & Proxies - Public and DoH (DNS over HTTPS) Servers (bypass protection).
+ 
+- Top Level Domains (TLDs) - .
 
-- Malware - Protects against domains with destructive malware.
+- Advertisements - Blocks ad-serving domains, offering a cleaner browsing experience.
 
-- Advertisements - Blocks ad-serving domains for a cleaner browsing experience.
+- Tracking, Telemetry & Data Collection -
+  
+- Malware, Phishing & Threat Intelligence - 
 
-- Corportations - Blocks access to most major corportations (configurable).
+- Social Media - 
 
-- Malicious Top Level Domains(TLDs) - Malicious TLDs has been sourced from trusted threat intelligence providers.
-
-- DOH/DNS - Public and DoH (DNS over HTTPS) Servers (bypass protection)
+- Miscellaneous - 
 
 <br>
 
@@ -54,13 +56,25 @@
 
 - **[FilterLists](https://filterlists.com/)**
 
-- **[Firebog](https://firebog.net/)**
+- **[The Firebog](https://firebog.net)**
 
-- **[Blocklist Project](https://blocklistproject.github.io/)**
+- **[The Blocklist Project](https://github.com/blocklistproject/Lists)**
 
-- **[Unified Hosts](https://github.com/AdguardTeam/AdguardFilters)**
-  
-    for a more detailed section, look [here.](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Adlists)
+- **[OISD](https://oisd.nl/setup/pihole)**
+
+- **[HaGeZi](https://github.com/hagezi/dns-blocklists)**
+
+- **[1Hosts](https://github.com/badmojr/1Hosts)**
+
+- **[StevenBlack](https://github.com/StevenBlack/hosts)**
+
+- **[Energized Protection](https://github.com/EnergizedProtection/block)**
+
+- **[Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)**
+
+- **[x] [hBlock](https://github.com/hectorm/hblock)**
+
+  for a more detailed section, look [here.](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Adlists)
 
 <br>
 
