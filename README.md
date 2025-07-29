@@ -32,6 +32,8 @@
 <i align="center">Proceed <b>with caution</b>;<u> disrupts functionality. </u></i>
 </p>
 
+<br>
+
 <h3>📂 Categories</h3>
 
 - DoH/VPN/TOR & Proxies - Block connections to public DNS‐over‐HTTPS (DoH) resolvers, VPN endpoint IPs, Tor exit nodes, and proxy services.
