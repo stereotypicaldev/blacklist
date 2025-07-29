@@ -34,19 +34,13 @@
 
 <h3>📂 Categories</h3>
 
-- DoH/VPN/TOR & Proxies - Block connections to public DNS‐over‐HTTPS (DoH) resolvers, VPN endpoint IPs, Tor exit nodes, and proxy services.
-
-- Top Level Domains (TLDs) - Certain TLDs have historically high abuse rates. Grouping them allows automatic exclusion of broad swaths of risky domains.
-
-- Advertisements - Block domains that serve ads—tracking pixels, ad-servers, pop‑ups, banners.
-
-- Tracking, Telemetry & Data Collection - Block domains used for analytics, usage tracking, telemetry (browser or app diagnostics), behavioral profiling, and even data collection from IoT devices.
-
-- Malware, Phishing & Threat Intelligence - Domains confirmed or strongly suspected to host, malware, trojans, spyware, ransomware, plus command and control infastructure.
-
-- Social Media - Blocks domains associated with social media platforms (Facebook, Twitter, Instagram, etc.), their trackers, content delivery networks, APIs, and embedded widgets.
-
-- Miscellaneous - A catch‑all category for domains that don’t fit neatly into the other groups—gambling,fake news/misinformation etc.
+- DoH/VPN/TOR & Proxies
+- Top Level Domains (TLDs)
+- Advertisements
+- Tracking, Telemetry & Data Collection
+- Malware, Phishing & Threat Intelligence
+- Social Media
+- Miscellaneous
 
 <br>
 
