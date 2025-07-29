@@ -24,13 +24,13 @@
 
 - [x] [MoaAB: Mother of All AD-Blocking](https://xdaforums.com/t/moaab-mother-of-all-ad-blocking-blocks-adware-malware-spyware-bloatware-ransomware.1916098/)
 
-- [ ] [Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)
+- [x] [Sefinek Blocklist Collection](https://sefinek.net/blocklist-generator/pihole)
 
-- [ ] [Pihole Blocklist: New Domains](https://blocked.cyou/)
+- [x] [Pihole Blocklist: New Domains](https://blocked.cyou/)
 
-- [ ] [hBlock](https://github.com/hectorm/hblock)
+- [x] [hBlock](https://github.com/hectorm/hblock)
 
-- [ ] [Emerging-Malicious-Domain-Blocklist](https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist)
+- [x] [Emerging-Malicious-Domain-Blocklist](https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist)
 
 - [ ] [DandelionSprout - Adflit](https://github.com/DandelionSprout/adfilt)
 
