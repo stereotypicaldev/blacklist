@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-<i align="center">Proceed <b>with caution</b>; Depending on your circumstances, could <b>disrupt functionality.</b></i>
+<i align="center">Proceed <b>with caution</b>; <u>disrupt functionality.</u></i>
 </p>
 
 <br>
