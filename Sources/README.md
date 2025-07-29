@@ -40,6 +40,8 @@
 
 - [x] [1024_hosts](https://github.com/Goooler/1024_hosts/)
 
+- [x] [abc45628 - Hosts](https://github.com/abc45628/hosts/)
+
 ## Miscellaneous
 
 - [x] [Burner Email Providers](https://github.com/wesbos/burner-email-providers)
