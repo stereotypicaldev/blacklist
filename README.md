@@ -36,6 +36,8 @@
 
 <h3>📂 Categories</h3>
 
+<br>
+
 - DoH/VPN/TOR & Proxies - Block connections to public DNS‐over‐HTTPS (DoH) resolvers, VPN endpoint IPs, Tor exit nodes, and proxy services.
   
 - Top Level Domains (TLDs) - Certain TLDs have historically high abuse rates. Grouping them allows automatic exclusion of broad swaths of risky domains.
