@@ -44,6 +44,10 @@
 
 - [x] [abc45628 - Hosts](https://github.com/abc45628/hosts/)
 
+- [x] [X Files](https://xfiles.noads.it/)
+
+- [x] [ABPVN Advanced](https://github.com/zonprox/adblock/)
+
 ## Miscellaneous
 
 - [x] [Burner Email Providers](https://github.com/wesbos/burner-email-providers)
